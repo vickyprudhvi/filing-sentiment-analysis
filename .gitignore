@@ -1,0 +1,19 @@
+# Data (large, redownloadable, or not ours to redistribute)
+data/raw/
+data/reference/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.conda/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
